@@ -8,7 +8,7 @@ First time:
 Inside this repo,
 `scrapy crawl listing -a query=Austin -o Austin.json`
 
-This is the same as search Austin in the airbnb website and store the raw API result in Austin.json (might contain duplicates)
+This is the same as searching "Austin" in the airbnb website and store the raw API result in Austin.json (might contain duplicates)
 
 ### Samples
 
